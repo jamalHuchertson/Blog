@@ -1,1 +1,1 @@
-web: gunicorn main:appgit commit -m "Initial commit"
+web: gunicorn main:app
